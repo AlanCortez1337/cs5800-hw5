@@ -1,4 +1,4 @@
-package java.com.cortezalan.problems.problem1;
+package com.cortezalan.problems.problem1;
 
 import com.cortezalan.problems.problem1.utils.Character;
 import com.cortezalan.problems.problem1.utils.CharacterProperty;
